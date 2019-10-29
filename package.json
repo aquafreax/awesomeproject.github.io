@@ -22,6 +22,7 @@
   "homepage": "https://github.com/aquafreax/awesomeproject.github.io#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "fs": "0.0.1-security",
     "google-auth-library": "^5.5.1",
     "google-auto-auth": "^0.10.1",
     "googleapis": "^44.0.0"
